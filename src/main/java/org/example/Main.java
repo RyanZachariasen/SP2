@@ -17,7 +17,7 @@ public class Main {
         fleetOfCars.addCars(electriccar);
 
         //alt
-        System.out.println(fleetOfCars.toString());
+        System.out.println(fleetOfCars);
         System.out.println(fleetOfCars.getTotalRegistrationFeeForFleet());
     }
 }
